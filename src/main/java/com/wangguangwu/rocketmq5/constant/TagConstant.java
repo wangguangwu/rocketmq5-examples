@@ -1,4 +1,4 @@
-package com.wangguangwu.rocketmq5.common;
+package com.wangguangwu.rocketmq5.constant;
 
 /**
  * 消息标签常量类

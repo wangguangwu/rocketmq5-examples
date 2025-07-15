@@ -1,4 +1,4 @@
-package common;
+package com.wangguangwu.rocketmq5.constant;
 
 /**
  * 生产者组常量类
